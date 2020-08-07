@@ -1,0 +1,42 @@
+{
+    "data": {
+        "serverid": "702806588393783307",
+        "roles": {
+            "server": {
+                "verifiedRole": null
+            },
+            "roblox": {
+                "placeholder": null
+            }
+        },
+        "verifiedServer": false,
+        "roblox": {
+            "groupId": null,
+            "groupName": null
+        },
+        "settings": {
+            "changeNickname": false,
+            "giveRole": false,
+            "autoCreateRole": false,
+            "errorOutput": true,
+            "logs": {
+                "doLogs": false,
+                "logsChannel": null,
+                "settings": {
+                    "log_verification": false,
+                    "log_roleGiving": false,
+                    "log_joins": true,
+                    "log_leavings": true
+                }
+            }
+        },
+        "other": {
+            "setup": false,
+            "setupBy": null,
+            "date": null,
+            "other": [
+                null
+            ]
+        }
+    }
+}
